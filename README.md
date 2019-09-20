@@ -1,0 +1,1 @@
+For the code and results, see the Jupyter notebook [here](Embedding self-organizing maps in neural networks - Stephen Barnes (stbarnes).ipynb). For a briefer overview, the [slides](presentation_stbarnes.pdf) for the presentation I gave may be useful.
